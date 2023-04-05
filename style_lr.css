@@ -11,7 +11,7 @@ body {
 	height: 2000px;
 	float: right;
 	left: 0;
-	margin-top: 400px;
+	margin-top: 900px;
 	position: absolute;
 	background:#969696BE;
 	-webkit-background-size: cover;
@@ -70,7 +70,7 @@ header{
 
 }
 .top-menu li{
-	margin-right: 100px; /*растояние между словами*/
+	margin-right: 50px; /*растояние между словами*/
 	display: inline-block;
 	vertical-align: middle;
 }

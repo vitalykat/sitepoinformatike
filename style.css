@@ -63,7 +63,17 @@ body {
 
 
 
-
+.name-panel{
+	width: 270px;
+	height: 100px;
+	background: #000000AA;
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 7px;
+	float: left;
+	margin-left: 37%;
+	margin-top: 200px;
+}
 
 header{
 	top: 0;
